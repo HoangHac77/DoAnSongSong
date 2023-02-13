@@ -1,7 +1,10 @@
+import "./App.scss";
+import Test from "../example/Test";
+
 function App() {
   return (
     <div>
-      Hello world!
+      <Test />
     </div>
   );
 }
