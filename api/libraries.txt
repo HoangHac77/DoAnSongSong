@@ -1,0 +1,8 @@
+bcrypt
+bcryptjs
+body-parser
+cors
+jsonwebtoken
+mysql2
+sequelize
+sequelize-cli
